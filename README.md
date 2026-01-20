@@ -8,7 +8,7 @@ Responsável: Gustavo de Oliveira Batista
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Gustao de Oliveira Batista.  
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Gustavo de Oliveira Batista.  
 O objetivo do projeto foi elencar 5 serviços da AWS, com a finalidade de promover redução imediata de custos, escalabilidade automática e modernização da infraestrutura, considerando que a empresa não possuía ambiente em cloud.
 
 ---
